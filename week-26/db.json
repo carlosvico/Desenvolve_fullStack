@@ -1,0 +1,85 @@
+{
+  "conta": {
+    "saldo": 3076
+  },
+  "transacoes": [
+    {
+      "valor": 10,
+      "transacao": "saque",
+      "data": "10/08/2020",
+      "id": 1
+    },
+    {
+      "transacao": "deposito",
+      "valor": "20",
+      "data": "26/09/2020",
+      "id": 2
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "23/07/2022",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "23/07/2022",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "23/07/2022",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "23/07/2022",
+      "id": 6
+    },
+    {
+      "transacao": "deposito",
+      "valor": "159",
+      "data": "23/07/2022",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "1159",
+      "data": "23/07/2022",
+      "id": 8
+    },
+    {
+      "transacao": "saque",
+      "valor": "11",
+      "data": "23/07/2022",
+      "id": 9
+    },
+    {
+      "transacao": "deposito",
+      "valor": "2500",
+      "data": "23/07/2022",
+      "id": 10
+    },
+    {
+      "transacao": "deposito",
+      "valor": "599",
+      "data": "23/07/2022",
+      "id": 11
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1988",
+      "data": "24/07/2022",
+      "id": 12
+    },
+    {
+      "transacao": "saque",
+      "valor": "2000",
+      "data": "24/07/2022",
+      "id": 13
+    }
+  ]
+}
